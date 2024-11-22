@@ -2,6 +2,14 @@
 
 A React Native Expo application that simulates an order book system for distributors. Users can browse items, search through the catalog, and manage their shopping cart.
 
+## Features
+
+- Browse items in responsive grid layout
+- Search functionality with partial and exact matching
+- Add to cart functionality
+- Sale price indicators and original price display
+- Item subtotal calculation
+
 ## Tech Stack
 
 - React Native
