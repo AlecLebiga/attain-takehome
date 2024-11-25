@@ -30,7 +30,7 @@ A React Native Expo application that simulates an order book system for distribu
 1. Clone the repository
 ```bash
 git clone https://github.com/AlecLebiga/attain-takehome.git
-cd attain-order-book
+cd attain-takehome
 ```
 
 2. Install dependencies
